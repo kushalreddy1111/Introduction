@@ -1,3 +1,3 @@
 # **Introduction**
 
-![Alt](Introduction/kush.jpeg)
+![Alt text](Introduction/kush.jpeg)
