@@ -1,6 +1,9 @@
 # **Introduction**
 
-![Alt text]([Introduction/kush.jpeg](https://github.com/kushalreddy1111/Introduction/blob/main/kush.jpeg)https://github.com/kushalreddy1111/Introduction/blob/main/kush.jpeg)
+<p align="left">
+  <img src="https://github.com/kushalreddy1111/Introduction/blob/main/kush.jpeg" width="350" alt="Kushal Reddy">
+</p>
+
 
 ## **About me**
 
